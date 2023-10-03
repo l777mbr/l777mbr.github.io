@@ -1,6 +1,6 @@
 title: Lucy Malabar
 url: "http://l777mbr.github.io"
-baseurl: "/lucymalabar"
+baseurl: "/l777mbr.github.io"
 
 markdown: kramdown
 #ins_logo: "./lse-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/lucymalabar/"
+   link: "/l777mbr.github.io/"
  - name: "CV"
    link: "CV.pdf"
  - name: "Contact"
