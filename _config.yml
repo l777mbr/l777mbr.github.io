@@ -1,5 +1,5 @@
 title: Lucy Malabar
-url: "https://lucymalabar.com"
+url: "http://l777mbr.github.io"
 baseurl: "/lucymalabar"
 
 markdown: kramdown
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/l777mbe"
+footer_url: "https://github.com/l777mbr"
 footer_text: "Page design by Lucy Malabar"
 
 sass:
